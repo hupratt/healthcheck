@@ -5,6 +5,8 @@ save to file:
 ```
 code --list-extensions >> vscode.txt
 ```
+
+install: 
 ```
-install: cat vscode.txt | xargs -n 1 code --install-extension
+cat vscode.txt | xargs -n 1 code --install-extension
 ```
