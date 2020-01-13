@@ -1,0 +1,10 @@
+{
+    "_embedded": {
+        "item": [
+            {
+                "Id": "123456",
+                "Description": "AA Contract Cancellation Fee"
+            }
+        ]
+    }
+}
