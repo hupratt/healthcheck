@@ -1,8 +1,11 @@
+D3skDev.git-commit-message-helper
+donjayamanne.githistory
 eamodio.gitlens
 emmanuelbeziat.vscode-great-icons
 GabrielBB.vscode-lombok
 georgewfraser.vscode-javac
 k--kato.intellij-idea-keybindings
+mhutchie.git-graph
 okon3.ayu-miragemod
 Pivotal.vscode-boot-dev-pack
 Pivotal.vscode-concourse
