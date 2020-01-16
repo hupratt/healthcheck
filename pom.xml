@@ -114,10 +114,14 @@
 			<artifactId>commons-lang</artifactId>
 			<version>2.6</version>
 		</dependency>
-<dependency>
-    <groupId>com.pervasivecode</groupId>
-    <artifactId>java-time-utils</artifactId>
-    <version>0.9</version>
-</dependency>
+		<dependency>
+			<groupId>com.pervasivecode</groupId>
+			<artifactId>java-time-utils</artifactId>
+			<version>0.9</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-security</artifactId>
+		</dependency>
 	</dependencies>
 </project>
