@@ -3,7 +3,7 @@
 ## Installing vscode extensions
 save to file: 
 ```
-code --list-extensions >> vscode.txt
+code --list-extensions > vscode.txt
 ```
 
 install: 
